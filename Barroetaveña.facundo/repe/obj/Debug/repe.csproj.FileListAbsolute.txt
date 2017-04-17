@@ -1,0 +1,5 @@
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\repe\bin\Debug\repe.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\repe\bin\Debug\repe.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\repe\bin\Debug\repe.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\repe\obj\Debug\repe.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\repe\obj\Debug\repe.pdb

@@ -1,0 +1,8 @@
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\bin\Debug\PruebaTinta.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\bin\Debug\PruebaTinta.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\bin\Debug\PruebaTinta.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\bin\Debug\Entidades2.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\bin\Debug\Entidades2.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\obj\Debug\PruebaTinta.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\obj\Debug\PruebaTinta.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTinta\obj\Debug\PruebaTinta.pdb

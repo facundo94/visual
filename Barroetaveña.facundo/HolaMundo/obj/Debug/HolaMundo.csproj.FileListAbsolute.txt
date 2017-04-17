@@ -1,0 +1,5 @@
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\HolaMundo\obj\Debug\HolaMundo.pdb

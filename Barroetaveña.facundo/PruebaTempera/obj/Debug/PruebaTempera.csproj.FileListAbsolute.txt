@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.exe.config
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.exe
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\Entidades3.dll
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\Entidades3.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.exe
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\PruebaTempera.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\Entidades3.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\bin\Debug\Entidades3.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\PruebaTempera\obj\Debug\PruebaTempera.pdb

@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\Entidades3\bin\Debug\Entidades3.dll
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\Entidades3\bin\Debug\Entidades3.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.dll
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Entidades3\bin\Debug\Entidades3.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Entidades3\bin\Debug\Entidades3.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Entidades3\obj\Debug\Entidades3.pdb
