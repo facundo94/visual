@@ -12,18 +12,21 @@ namespace Ejer02
         {
             Console.WriteLine("Ingrese un numero:");
             int num = int.Parse(Console.ReadLine());
-            Console.WriteLine();
 
             if (num <= 0)
             {
-                Console.WriteLine("ERROR. Reingresar número!!!");
+                Console.WriteLine("Error! Reingrese el numero!!!");
             }
             else
             {
+                Console.Write("El numero {0}, su cuadrado es ",num);
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("El numero es {0}, su cuadrado es {1} y su cubo {2}", num, Math.Pow(num, 2), Math.Pow(num, 3));
+                Console.Write("{0}",Math.Pow(num,2));
+                Console.ForegroundColor = ConsoleColor.Gray;
+                Console.Write(", y su cubo ");
+                Console.ForegroundColor = ConsoleColor.Magenta;
+                Console.Write("{0}",Math.Pow(num,3));
             }
-
             Console.ReadLine();
         }
     }

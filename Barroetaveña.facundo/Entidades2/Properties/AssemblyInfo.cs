@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general sobre un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos atributos para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("Ejer02")]
+[assembly: AssemblyTitle("Entidades2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ejer02")]
+[assembly: AssemblyProduct("Entidades2")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como identificador de typelib si este proyecto se expone a COM
-[assembly: Guid("529259c9-dc3c-4aa0-a8ae-c10f2115d048")]
+[assembly: Guid("a46ad0cd-67ab-4635-9cff-9e40451bab80")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

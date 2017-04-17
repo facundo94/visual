@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66E477D6-712A-4468-8175-5D41F51C99A4}</ProjectGuid>
+    <ProjectGuid>3f3a8a0a-c2cb-4a36-b93e-020f93964564</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ejer02</RootNamespace>
-    <AssemblyName>Ejer02</AssemblyName>
+    <RootNamespace>Ejer03</RootNamespace>
+    <AssemblyName>Ejer03</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
