@@ -1,0 +1,8 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Ejer02\bin\Debug\Ejer02.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Ejer02\bin\Debug\Ejer02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Ejer02\bin\Debug\Ejer02.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Ejer02\obj\Debug\Ejer02.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Ejer02\obj\Debug\Ejer02.pdb
+C:\Users\Facu\Desktop\visual studio\Barroetaveña.facundo\Ejer02\bin\Debug\Ejer02.exe.config
+C:\Users\Facu\Desktop\visual studio\Barroetaveña.facundo\Ejer02\obj\Debug\Ejer02.exe
+C:\Users\Facu\Desktop\visual studio\Barroetaveña.facundo\Ejer02\obj\Debug\Ejer02.pdb

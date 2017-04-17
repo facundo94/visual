@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
