@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.exe.config
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.exe
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\Entidades3.dll
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\Entidades3.pdb
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.exe
+C:\Users\alumno\Desktop\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\TestNoNullTempera.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\Entidades3.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\bin\Debug\Entidades3.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestNoNullTempera\obj\Debug\TestNoNullTempera.pdb

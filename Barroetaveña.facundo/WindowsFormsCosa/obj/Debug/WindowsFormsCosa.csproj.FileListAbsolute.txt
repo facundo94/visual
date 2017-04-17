@@ -1,0 +1,22 @@
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Properties.Resources.resources
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe.config
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Calendario.resources
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\WindowsFormsCosa.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Calendario.resources
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.Properties.Resources.resources
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\WindowsFormsCosa\obj\Debug\WindowsFormsCosa.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.exe.config
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\bin\Debug\Entidades.dll
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\bin\Debug\Entidades.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\bin\Debug\TestLibreria.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\bin\Debug\Entidades.dll
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\bin\Debug\Entidades.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\TestLibreria\obj\Debug\TestLibreria.pdb
