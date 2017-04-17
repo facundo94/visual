@@ -10,46 +10,40 @@ namespace Barroetaveña.facundo.Ejer01
     {
         static void Main(string[] args)
         {
-
-            float numero;
-            float max = 0;
-            float min = 0;
-            float suma = 0;
-            float promedio = 0;
+            int num;
             int i;
+            int max = 0;
+            int min = 0;
+            int suma = 0;
+            float promedio;
 
             for (i = 0; i < 5; i++)
             {
-                System.Console.WriteLine("Ingrese un numero:");
-                numero = float.Parse(Console.ReadLine());
+                Console.WriteLine("Ingrese un numero:");
+                num = int.Parse(Console.ReadLine());
 
                 if (i == 0)
                 {
-                    max = numero;
-                    min = numero;
+                    max = num;
+                    min = num;
                 }
 
-                if (numero > max)
+                if (num > max)
                 {
-                    max = numero;
+                    max = num;
                 }
 
-                if (numero < min)
+                if (num < min)
                 {
-                    min = numero;
+                    min = num;
                 }
 
-                suma = suma + numero;
-                
+                suma = suma + num;
             }
             promedio = suma / i;
 
-            Console.WriteLine("El numero maximo fue {0}, el minimo {1}, la suma de los numeros {2} y el promedio {3}", max, min, suma, promedio);
-
+            Console.WriteLine("El max: {0}, el min {1}, suma {2}, promedio{3}",max,min,suma,promedio);
             Console.ReadLine();
-
-
-
         }
     }
 }

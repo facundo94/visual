@@ -1,0 +1,24 @@
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe.config
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\bin\Debug\Clases.pdb
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\obj\Debug\Clases.exe
+C:\Users\Facu\Documents\Visual Studio 2012\Projects\Barroetaveña.facundo\Clases\obj\Debug\Clases.pdb
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe.config
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\obj\Debug\Clases.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clases\obj\Debug\Clases.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe.config
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe.config
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\bin\Debug\Clases.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clases\obj\Debug\Clases.pdb

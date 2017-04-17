@@ -1,0 +1,24 @@
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe.config
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.pdb
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe.config
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe.config
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe.config
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\bin\Debug\Clase03.Ejer02.pdb
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.exe
+C:\Users\Facu\Desktop\visual studio\Prog\Barroetaveña.facundo\Clase03.Ejer02\obj\Debug\Clase03.Ejer02.pdb

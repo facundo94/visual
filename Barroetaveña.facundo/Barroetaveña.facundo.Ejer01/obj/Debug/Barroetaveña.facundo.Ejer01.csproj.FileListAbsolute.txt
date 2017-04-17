@@ -1,6 +1,24 @@
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
-D:\Mis Documentos\Visual Studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
+c:\users\facu\documents\visual studio 2012\Projects\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\alumno\Desktop\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\Facu\Desktop\visual studio\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe.config
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\bin\Debug\Barroetaveña.facundo.Ejer01.pdb
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.exe
+C:\Users\alumno\Desktop\Clase04\Barroetaveña.facundo\Barroetaveña.facundo.Ejer01\obj\Debug\Barroetaveña.facundo.Ejer01.pdb
